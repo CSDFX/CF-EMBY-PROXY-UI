@@ -17,7 +17,8 @@
 
 **安全兼容**：集成 Emby 授权头双向兼容补丁，解决反向代理环境下的客户端登录难题，并内置 IP/地理防火墙。
 
-<img width="2560" height="1600" alt="图片" src="https://github.com/user-attachments/assets/78b33a0a-9903-4102-8f2c-6a8f707a814b" />
+<img width="2560" height="1463" alt="图片" src="https://github.com/user-attachments/assets/63f20287-eb64-4691-8931-6414625b3bcb" />
+
 
 
 
